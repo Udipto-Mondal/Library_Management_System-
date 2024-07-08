@@ -1,0 +1,44 @@
+C:\Users\User\source\repos\Library System Managment\Library System Managment\bin\Debug\Library System Managment.exe.config
+C:\Users\User\source\repos\Library System Managment\Library System Managment\bin\Debug\Library System Managment.exe
+C:\Users\User\source\repos\Library System Managment\Library System Managment\bin\Debug\Library System Managment.pdb
+C:\Users\User\source\repos\Library System Managment\Library System Managment\obj\Debug\Library System Managment.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Library System Managment\Library System Managment\obj\Debug\Library_System_Managment.Dashboard.resources
+C:\Users\User\source\repos\Library System Managment\Library System Managment\obj\Debug\Library_System_Managment.Form1.resources
+C:\Users\User\source\repos\Library System Managment\Library System Managment\obj\Debug\Library_System_Managment.Properties.Resources.resources
+C:\Users\User\source\repos\Library System Managment\Library System Managment\obj\Debug\Library System Managment.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Library System Managment\Library System Managment\obj\Debug\Library System Managment.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Library System Managment\Library System Managment\obj\Debug\Library System Managment.exe
+C:\Users\User\source\repos\Library System Managment\Library System Managment\obj\Debug\Library System Managment.pdb
+C:\Users\User\source\repos\Library System Managment\Library System Managment\obj\Debug\Library_System_Managment.CreateAccuntForm.resources
+C:\Users\User\source\repos\Library System Managment\Library System Managment\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\Library System Managment\Library System Managment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\Library System Managment\Library System Managment\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\source\repos\Library System Managment\Library System Managment\bin\Debug\System.Buffers.dll
+C:\Users\User\source\repos\Library System Managment\Library System Managment\bin\Debug\System.Formats.Asn1.dll
+C:\Users\User\source\repos\Library System Managment\Library System Managment\bin\Debug\System.Memory.dll
+C:\Users\User\source\repos\Library System Managment\Library System Managment\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\source\repos\Library System Managment\Library System Managment\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\source\repos\Library System Managment\Library System Managment\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\source\repos\Library System Managment\Library System Managment\bin\Debug\System.Text.Json.dll
+C:\Users\User\source\repos\Library System Managment\Library System Managment\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\source\repos\Library System Managment\Library System Managment\bin\Debug\System.ValueTuple.dll
+C:\Users\User\source\repos\Library System Managment\Library System Managment\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\Library System Managment\Library System Managment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\Library System Managment\Library System Managment\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\source\repos\Library System Managment\Library System Managment\bin\Debug\System.Buffers.xml
+C:\Users\User\source\repos\Library System Managment\Library System Managment\bin\Debug\System.Formats.Asn1.xml
+C:\Users\User\source\repos\Library System Managment\Library System Managment\bin\Debug\System.Memory.xml
+C:\Users\User\source\repos\Library System Managment\Library System Managment\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\source\repos\Library System Managment\Library System Managment\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\source\repos\Library System Managment\Library System Managment\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\source\repos\Library System Managment\Library System Managment\bin\Debug\System.Text.Json.xml
+C:\Users\User\source\repos\Library System Managment\Library System Managment\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\source\repos\Library System Managment\Library System Managment\bin\Debug\System.ValueTuple.xml
+C:\Users\User\source\repos\Library System Managment\Library System Managment\obj\Debug\Library System Managment.csproj.CopyComplete
+C:\Users\User\source\repos\Library System Managment\Library System Managment\obj\Debug\Library_System_Managment.AddBooks1.resources
+C:\Users\User\source\repos\Library System Managment\Library System Managment\obj\Debug\Library_Management_System.ViewBook.resources
+C:\Users\User\source\repos\Library System Managment\Library System Managment\obj\Debug\Addstudent.addstudent.resources
+C:\Users\User\source\repos\Library System Managment\Library System Managment\obj\Debug\viewStudent.student.resources
+C:\Users\User\source\repos\Library System Managment\Library System Managment\obj\Debug\Library_Management_System.IssueBooks.resources
+C:\Users\User\source\repos\Library System Managment\Library System Managment\obj\Debug\Library_Management_System.CompleteBookDetails.resources
+C:\Users\User\source\repos\Library System Managment\Library System Managment\obj\Debug\Library_System_Managment.Returnbook.resources
